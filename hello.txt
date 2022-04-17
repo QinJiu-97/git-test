@@ -8,5 +8,5 @@ hello qinjiu
 hello qinjiu
 hello qinjiu
 hello qinjiu
-hello qinjiu
-hello qinjiu hot-fix test
+hello qinjiu 
+hello qinjiu (hot-fix test -> 1
