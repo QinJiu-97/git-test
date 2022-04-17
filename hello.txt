@@ -9,4 +9,3 @@ hello qinjiu
 hello qinjiu
 hello qinjiu master test
 hello qinjiu
-hello qinjiu hot-fix test
